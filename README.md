@@ -10,4 +10,4 @@ Formato do arquivo .txt de entrada:
  * 5ª linha: porcentagem de amostras que será separada para teste posterior
  * 6ª linha: coeficiente μ
  * 7ª linha: nº de épocas
- * próximas linhas: matriz de dados (linha por linha)
+ * próximas linhas: matriz de dados linha por linha (valores separados por espaços)
